@@ -23,7 +23,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahmas01&show_icons=true&locale=en" alt="shahmas01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahmas01&" alt="shahmas01" /></p>
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=shahmas01&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahmas01&show_icons=true&theme=dark)
+
 
 
 <!--
